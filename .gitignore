@@ -1,0 +1,11 @@
+# HydroSHEDS downloads and basin caches: hundreds of MB, all reproducible
+data/
+out/
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+
+.pytest_cache/
