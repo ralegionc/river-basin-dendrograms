@@ -418,6 +418,8 @@ tidied up.
 
 ## Data
 
+> The raw inputs are not in this repository. [DATA.md](DATA.md) records exactly which files were used, with sizes and fingerprints, and how to re-fetch them.
+
 [HydroSHEDS](https://www.hydrosheds.org/) v1, HydroRIVERS v1.0 and the 30
 arc-second hydrologically conditioned DEM, both fetched from
 `data.hydrosheds.org`. HydroSHEDS is produced by the World Wildlife Fund
